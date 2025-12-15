@@ -2,7 +2,7 @@
 
 I am a Finnish game developer 💀
 
-In this portfolio I have some of the music and games I have made in my sad little nub of a lifetime.
+In this portfolio I have some of the music and pictures of games I have made in my sad little nub of a lifetime.
 
 I DO have a sense of humor, you just won't get it :)
 
