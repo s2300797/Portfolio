@@ -44,7 +44,7 @@ Things I have willingly chosen to spend time with:
 
 ### Project: [Projekt Nipsu]
 
-**Status:** Non-Playable™
+**Status:** Non-Playable
 
 A game where:
 
@@ -66,7 +66,7 @@ A game where:
 ### Project: [The wrath of the Chicken-God]
 Created for the Dungeon-crawler Jam 2025
 
-**Status:** Playable
+**Status:** Playable™
 
 Link: https://jozen1.itch.io/the-wrath-of-the-chicken-god
 
